@@ -349,6 +349,9 @@ please preview your site before committing, and make sure to run
 
 <h2 id="setup">Setup</h2>
 
+In order to prepare for the workshop follow our
+<a href="{{ site.baseurl }}/setup/">detailed installation instructions</a>.
+
 <p>
   To participate in a
   {% if site.carpentry == "swc" %}
@@ -387,5 +390,3 @@ These are the installation instructions for the tools used
 during the workshop.
 {% endcomment %}
 
-In order to prepare for the workshop follow our
-<a href="{{ site.baseurl }}/setup/">detailed instalation instructions</a>.
