@@ -245,10 +245,6 @@ Everyone who participates in Carpentries activities is required to conform to th
 </p>
 <hr/>
 
-
-{% endif %}
-
-
 {% comment %}
 SURVEYS - DO NOT EDIT SURVEY LINKS
 {% endcomment %}
