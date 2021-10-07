@@ -54,9 +54,11 @@ kit", "Mac kit", or "Linux kit" - depending on your operating system - and follo
 lesson has been tested with all versions of OpenRefine up to the latest tested version, 3.2. **If you are using an older version, it is
 recommended you upgrade to the latest tested version.** After installing, you can delete the installer `.dmg` file.
 
-* You may get an error message: "OpenRefine.app can't be opened because it is from an unidentified developer." If you get this message,
-open your system preferences and click "Security & Privacy". You will see a message "OpenRefine.app was blocked from opening because it
-is from an unidentified developer." Click "Open Anyway" and "Yes". OpenRefine should open in your default web browser.
+* On macOS, you may get the following error message when trying to open the downloaded `.dmg` file: "openrefine-mac-X.X.X.dmg cannot be
+opened because it is from an unidentified developer." If you get this message, right-click the `.dmg` file and select "open" from the
+menu. Click "Open" again to extract the content of the `.dmg` file. You may get a similar error message the first time you try to run
+OpenRefine: “OpenRefine cannot be opened because the developer cannot be verified." If this happens, Right-click the OpenRefine icon in the
+"Applications" folder, then select "open" from the menu. Click "Open" again to start OpenRefine.
 
 * OpenRefine does not support Internet Explorer or Edge. Please use Firefox, Chrome or Safari instead.
 
