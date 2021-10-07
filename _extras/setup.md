@@ -57,7 +57,7 @@ recommended you upgrade to the latest tested version.** After installing, you ca
 * On macOS, you may get the following error message when trying to open the downloaded `.dmg` file: "openrefine-mac-X.X.X.dmg cannot be
 opened because it is from an unidentified developer." If you get this message, right-click the `.dmg` file and select "open" from the
 menu. Click "Open" again to extract the content of the `.dmg` file. You may get a similar error message the first time you try to run
-OpenRefine: “OpenRefine cannot be opened because the developer cannot be verified." If this happens, Right-click the OpenRefine icon in the
+OpenRefine: “OpenRefine cannot be opened because the developer cannot be verified." If this happens, right-click the OpenRefine icon in the
 "Applications" folder, then select "open" from the menu. Click "Open" again to start OpenRefine.
 
 * OpenRefine does not support Internet Explorer or Edge. Please use Firefox, Chrome or Safari instead.
